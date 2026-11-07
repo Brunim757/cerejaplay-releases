@@ -1,0 +1,11 @@
+{
+  "app": "desktop",
+  "version": "1.0.0",
+  "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-portable.exe",
+  "size": 74388407,
+  "sha256": "5ebc8c9d973fd8e7d6fcbe11711d49d5363e570aeb2dfb13b0e497ce34ce8efa",
+  "notes": "CerejaPlay Desktop 1.0.0 para Windows: player nativo, proxy local e troca automática de fonte.",
+  "forceUpdate": false,
+  "minSupported": "1.0.0",
+  "publishedAt": "2026-11-07T17:22:18Z"
+}
