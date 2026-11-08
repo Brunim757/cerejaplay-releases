@@ -1,11 +1,11 @@
 {
   "app": "desktop",
-  "version": "1.1.3",
-  "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-portable.exe",
-  "size": 74393273,
-  "sha256": "f4be686c62ff949f422def2f576b3b0a65c1e4197bc0b650e0420f139344ca9e",
-  "notes": "chore: bump desktop 1.1.3",
+  "version": "1.1.4",
+  "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-Setup.exe",
+  "size": 81607723,
+  "sha256": "b7cceba20d366329939c99867de53f2b31ec7839c178e760fbb1c5d8e090ada6",
+  "notes": "feat(desktop): paridade com o Android, instalador NSIS e abertura rápida",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-08T18:24:35Z"
+  "publishedAt": "2026-11-08T22:26:30Z"
 }
