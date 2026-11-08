@@ -1,11 +1,11 @@
 {
   "app": "desktop",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-portable.exe",
-  "size": 74392699,
-  "sha256": "1a2100b09a4c0042fc4c05a4f9ee59ed7e6c90323bb80810681b406a055ade7a",
-  "notes": "feat(desktop): atualização via API e troca automática do .exe portátil",
+  "size": 74391501,
+  "sha256": "884b7a48d38c81234ef09a8d0a3d5ce3c3b73265776019bc2dd424f1faa438ff",
+  "notes": "feat(anime): temporadas reais no detalhe e troca por temporada",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-07T17:39:26Z"
+  "publishedAt": "2026-11-08T04:53:17Z"
 }
