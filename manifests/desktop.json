@@ -4,7 +4,7 @@
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-Setup.exe",
   "size": 81587323,
   "sha256": "6167b96499875e5e57e411cc243e56c43a5ef49eb5f1e2d636060ea71c9cc258",
-  "notes": "fix(build): remove companyName invalido no electron-builder 25",
+  "notes": "CerejaPlay 1.1.5 — paridade total com o Android, gêneros, perfis Principal/Infantil e instalador com admin",
   "forceUpdate": false,
   "minSupported": "1.0.0",
   "publishedAt": "2026-11-08T23:52:06Z"
