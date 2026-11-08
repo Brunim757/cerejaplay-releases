@@ -1,11 +1,11 @@
 {
   "app": "desktop",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-portable.exe",
-  "size": 74391501,
-  "sha256": "884b7a48d38c81234ef09a8d0a3d5ce3c3b73265776019bc2dd424f1faa438ff",
-  "notes": "feat(anime): temporadas reais no detalhe e troca por temporada",
+  "size": 74393247,
+  "sha256": "5f4c6aff3cc2cbd3d0a2a754d7a3339ea54087bd01c1940d356bcfa0b33e2384",
+  "notes": "feat(anime): temporadas por arco (startEpisode/tmdbSeason) na tela de detalhe",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-08T04:53:17Z"
+  "publishedAt": "2026-11-08T06:19:12Z"
 }
