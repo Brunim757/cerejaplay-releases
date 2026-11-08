@@ -1,12 +1,12 @@
 {
   "app": "android",
-  "version": "1.1.4",
-  "versionCode": 6,
+  "version": "1.1.5",
+  "versionCode": 7,
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/android-latest/cerejaplay-android.apk",
-  "size": 23637634,
-  "sha256": "3e096d4a1df2d4cba7b21f00f89e6df75ebaf94bf31fa73c565daff8de196562",
-  "notes": "chore: bump android 1.1.4 (versionCode 6)",
+  "size": 23654018,
+  "sha256": "21ca7644c4270fdf665941d67a1ea62008b418dc4896f8c925f0cc8306b51ba5",
+  "notes": "feat(android): paridade com o desktop, perfis infantil e generos",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-08T18:22:16Z"
+  "publishedAt": "2026-11-08T23:36:22Z"
 }
