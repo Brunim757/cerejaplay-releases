@@ -1,15 +1,15 @@
 {
   "app": "linux",
   "platform": "linux",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.AppImage",
   "debUrl": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.deb",
-  "debSize": 75137522,
-  "debSha256": "c8c7b4c86c7afb43daf0f680b16c7a124da429ac73c7fd20f6fcf5124b964c46",
-  "size": 108511446,
-  "sha256": "f779e293e42cd926e337d7f49bc23f02843aca1395021ffec2e33baf6dd9e38f",
-  "notes": "feat(desktop): tocar midia pelo relay da rede com fallback direto",
+  "debSize": 75615696,
+  "debSha256": "8477795ba2c2dd80d61ad7d08d209fd10779e817e1b0911916791f438368fb38",
+  "size": 108515625,
+  "sha256": "c9e43431e647dccf5a36e683df6259474466fc6bec526081baeff083aa242683",
+  "notes": "chore(desktop): versao 1.1.11",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-09T19:07:30Z"
+  "publishedAt": "2026-11-09T20:02:41Z"
 }
