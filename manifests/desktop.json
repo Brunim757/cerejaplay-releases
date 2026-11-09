@@ -4,7 +4,7 @@
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-Setup.exe",
   "size": 81587889,
   "sha256": "38611d8655d2d52b8761363d3d8771694862684587322ce1e2c1c5236b5b972e",
-  "notes": "chore: 1.1.7 (teste real do auto-update)",
+  "notes": "CerejaPlay 1.1.7 — versão de teste para validar a atualização automática",
   "forceUpdate": false,
   "minSupported": "1.0.0",
   "publishedAt": "2026-11-09T00:34:46Z"
