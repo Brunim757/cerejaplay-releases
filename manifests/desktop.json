@@ -1,11 +1,11 @@
 {
   "app": "desktop",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-Setup.exe",
-  "size": 81588048,
-  "sha256": "0768563ba972b7d061e4028b3af659d2254df5e23a617f93f842e58538360b35",
-  "notes": "fix(updater): dispara o instalador antes de fechar o app",
+  "size": 81706975,
+  "sha256": "0ba701ec38b9057c363c99abdbcf169588fa0bf2a9a9aced4a7182cc55338715",
+  "notes": "fix(desktop): remove linkWithEmailLink inexistente no SDK modular",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-09T00:56:23Z"
+  "publishedAt": "2026-11-09T07:10:40Z"
 }
