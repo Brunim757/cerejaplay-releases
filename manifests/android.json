@@ -1,12 +1,12 @@
 {
   "app": "android",
-  "version": "1.1.10",
-  "versionCode": 10,
+  "version": "1.1.11",
+  "versionCode": 11,
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/android-latest/cerejaplay-android.apk",
-  "size": 19718080,
-  "sha256": "64a7ae96f47557a18e496ae710650157df668134e81824b710c7093848adcd55",
-  "notes": "feat(android): tocar midia pelo relay da rede com fallback direto",
+  "size": 62765371,
+  "sha256": "d9ebba3f13267a88a5daac0f7299c3ce768a59b9b447df8a3087595f251351fe",
+  "notes": "fix(android): trata retorno nulo do WebRTC e ByteArray nulo no P2P",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-09T19:06:58Z"
+  "publishedAt": "2026-11-09T20:10:54Z"
 }
