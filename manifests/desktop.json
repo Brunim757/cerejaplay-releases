@@ -4,7 +4,7 @@
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-Setup.exe",
   "size": 81587876,
   "sha256": "b4bfbc96383c2e215e1e70319c9f1dc5bc807bd72b245b08a2bc32f2a43a7ac8",
-  "notes": "fix(updater): abrir instalador elevado (UAC) e reabrir o app se cancelar",
+  "notes": "CerejaPlay 1.1.6 — correção da atualização automática (UAC/admin)",
   "forceUpdate": false,
   "minSupported": "1.0.0",
   "publishedAt": "2026-11-09T00:21:18Z"
