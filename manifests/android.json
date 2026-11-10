@@ -4,9 +4,9 @@
   "versionCode": 11,
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/android-latest/cerejaplay-android.apk",
   "size": 62798011,
-  "sha256": "81b6cfec74e03cad4842d4f6a7a312f7444cc229e5cfb48af87331d80b110528",
-  "notes": "feat(android): design completo, feedback e P2P em lote (1.2)",
+  "sha256": "33c6a2eda486df7e9fbbaaa049393647045041379b065223aa70653e24372f30",
+  "notes": "feat(android): remove opcao 'proximo episodio' das configuracoes (padrao do app)",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-10T16:47:20Z"
+  "publishedAt": "2026-11-10T17:01:24Z"
 }
