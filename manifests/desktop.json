@@ -1,11 +1,11 @@
 {
   "app": "desktop",
-  "version": "1.1.12",
+  "version": "1.1.13",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-Setup.exe",
-  "size": 81711877,
-  "sha256": "5a0a9474fa78d07f404e5f12fa9d3186a9ecc8ce16b6d7977456a6e2aaa387be",
-  "notes": "chore(desktop): versao 1.1.12",
+  "size": 81712693,
+  "sha256": "396333862d45783b691d4ee00cee74ee75c841f8382b60f43dfa965c55feb42b",
+  "notes": "fix(desktop): login Google, barras de progresso e instalador",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-10T17:33:30Z"
+  "publishedAt": "2026-11-11T17:03:00Z"
 }
