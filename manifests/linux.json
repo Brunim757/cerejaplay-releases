@@ -1,15 +1,15 @@
 {
   "app": "linux",
   "platform": "linux",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.AppImage",
   "debUrl": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.deb",
-  "debSize": 75626290,
-  "debSha256": "27d448f1b231bad09075e9e7048692e2943257f0b929cc88c985dd13e700c0b5",
-  "size": 108515549,
-  "sha256": "96ba89de153517bb9c27a92e21b662ab2a7322e419ccc530b99da0c3c2415b61",
-  "notes": "fix(desktop): login Google, barras de progresso e instalador",
+  "debSize": 75623624,
+  "debSha256": "58a8a5506d83ec730d1fa03cb6a0f9c56fdc391ae2965bda15d30b7e1354c291",
+  "size": 108519561,
+  "sha256": "88128ba6bdc9c5614dda42f997a255884e5a71385ab15ce8f016b0b8176c8eb3",
+  "notes": "fix(desktop): login Google pelo navegador do sistema e remocao de intro/relay (1.1.14)",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-11T17:03:11Z"
+  "publishedAt": "2026-11-11T18:24:26Z"
 }
