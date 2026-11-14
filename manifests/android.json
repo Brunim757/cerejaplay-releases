@@ -1,12 +1,12 @@
 {
   "app": "android",
-  "version": "1.1.13",
-  "versionCode": 13,
+  "version": "1.1.14",
+  "versionCode": 14,
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/android-latest/cerejaplay-android.apk",
-  "size": 62798011,
-  "sha256": "9c0f883f8e12f068b28195faefecb2661c3fbace060027f4b36d073b5262f9a4",
-  "notes": "fix(android): barra de progresso neutra, remove 'Marcar abertura' e sync de progresso em ms (1.1.13)",
+  "size": 62863547,
+  "sha256": "91492930a07250fe04ebabc75994035a25e334b93b5158abfd57e4353fab86ea",
+  "notes": "fix(android): publica 1.1.14 (novelas, agenda, backup, estatisticas) ignorando cota de artefatos",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-11T18:22:27Z"
+  "publishedAt": "2026-11-14T18:15:26Z"
 }
