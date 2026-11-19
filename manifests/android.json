@@ -1,12 +1,12 @@
 {
   "app": "android",
-  "version": "1.1.14",
-  "versionCode": 14,
+  "version": "1.1.15",
+  "versionCode": 15,
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/android-latest/cerejaplay-android.apk",
-  "size": 62863547,
-  "sha256": "91492930a07250fe04ebabc75994035a25e334b93b5158abfd57e4353fab86ea",
-  "notes": "fix(android): publica 1.1.14 (novelas, agenda, backup, estatisticas) ignorando cota de artefatos",
+  "size": 62863543,
+  "sha256": "ccb8997e666050785c755dc0a7427c01ba03ced13ae08cf0999adbbce7565d72",
+  "notes": "feat(android): redesign cinema noturno, ranking honesto e menos movimento (1.1.15)",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-14T18:15:26Z"
+  "publishedAt": "2026-11-19T04:32:25Z"
 }
