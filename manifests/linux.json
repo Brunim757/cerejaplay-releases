@@ -1,15 +1,15 @@
 {
   "app": "linux",
   "platform": "linux",
-  "version": "1.1.17",
+  "version": "1.2.0",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.AppImage",
   "debUrl": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.deb",
-  "debSize": 75933860,
-  "debSha256": "adf24528da3bac6f2c689dc6d82ff9a7de5a082ed9ab538ce6fb3a2a6dba5111",
-  "size": 108929554,
-  "sha256": "12ca466a90c6f86ea4a3650d796307688b14b63e67bf4b3c451d1ed0d227c5e3",
-  "notes": "feat(desktop): redesign cinema noturno, hero em faixa e ranking honesto (1.1.17)",
+  "debSize": 75535144,
+  "debSha256": "49b1733b7444f2ed2387c8e6fa66896543333aed89ab8d984c58659d8f906443",
+  "size": 108929604,
+  "sha256": "11e46e754bc2905102ec1c12c4d9a2f801e799f19c35c74d6a2d984015a2b2cb",
+  "notes": "feat(desktop): front-end alinhado ao Android — CTA do hero em cereja e selo de tipo em vidro (1.2.0)",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-19T04:31:59Z"
+  "publishedAt": "2026-11-19T05:33:40Z"
 }
