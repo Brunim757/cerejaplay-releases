@@ -1,12 +1,12 @@
 {
   "app": "android",
-  "version": "1.1.15",
-  "versionCode": 15,
+  "version": "1.2.0",
+  "versionCode": 16,
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/android-latest/cerejaplay-android.apk",
   "size": 62863543,
-  "sha256": "ccb8997e666050785c755dc0a7427c01ba03ced13ae08cf0999adbbce7565d72",
-  "notes": "feat(android): redesign cinema noturno, ranking honesto e menos movimento (1.1.15)",
+  "sha256": "dffe5adddab49445db19830ea477f2eed989df22fc336c26817f56eebfe5e8a7",
+  "notes": "feat(android): reconstroi o front-end com tema cinema noturno aplicado de fato",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-19T04:32:25Z"
+  "publishedAt": "2026-11-19T05:20:34Z"
 }
