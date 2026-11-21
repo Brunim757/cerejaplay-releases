@@ -1,12 +1,12 @@
 {
   "app": "android",
-  "version": "1.2.2",
-  "versionCode": 18,
+  "version": "1.2.3",
+  "versionCode": 19,
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/android-latest/cerejaplay-android.apk",
-  "size": 62863539,
-  "sha256": "268ab9bb408ab2c15d5974e505d30d2261588da395fc144b1ba932ab2ae66fe6",
-  "notes": "fix(android): barra de topo sem rolagem — busca, inbox, menu e conta fixos (1.2.2)",
+  "size": 62863543,
+  "sha256": "f04c6887a04e610b1956aaa44ff0347751dfadcfb777e9bb6ad577f6137d1beb",
+  "notes": "fix(android): renova o token e repete no 401 para acabar com o erro de autenticacao (1.2.3)",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-19T10:20:42Z"
+  "publishedAt": "2026-11-21T02:48:59Z"
 }
