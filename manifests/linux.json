@@ -4,12 +4,12 @@
   "version": "2.0.0",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.AppImage",
   "debUrl": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.deb",
-  "debSize": 75562488,
-  "debSha256": "d3860314e6a7f63f912a00cc4cb4fb65edd7ebe34a7052b6b67502adad128681",
-  "size": 109056849,
-  "sha256": "f00f2a315ba010922049d09d6b9473bf0303f126e6325bc87c80844059711ca9",
-  "notes": "feat(icon): novo ícone do app e branding do instalador no mundo 'suco à noite'",
+  "debSize": 75455672,
+  "debSha256": "1146a597ba19950e4035a3a78b39f621b276db007c0dcbf30c6c2c78b6a61972",
+  "size": 109056845,
+  "sha256": "28dd48052b02fbb96e208afcb505d4165fcb09b582434248a828aa20e66bf994",
+  "notes": "feat(ui): home em painel 'Agora' (bento), pílulas flutuantes no hero e movimento de entrada",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-21T03:51:12Z"
+  "publishedAt": "2026-11-21T04:08:16Z"
 }
