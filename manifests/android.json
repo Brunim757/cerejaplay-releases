@@ -4,9 +4,9 @@
   "versionCode": 20,
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/android-latest/cerejaplay-android.apk",
   "size": 62981043,
-  "sha256": "ee7c1f27bc6b355620c43c7ded42a0803d9b081369f2d6e95eec75844fd349a2",
-  "notes": "feat(ui)!: novo mundo visual 'suco à noite' — cereja viva, Fraunces, novo ícone (2.0.0)",
+  "sha256": "1b3670be638c466b8528b540fb86f3e1ea0a6a2b71a459eb96fd30dcdda203e1",
+  "notes": "feat(ui): home com destaque 'Surpreenda-me', cabeçalhos com entrada animada e traço em degradê",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-21T03:39:19Z"
+  "publishedAt": "2026-11-21T04:08:35Z"
 }
