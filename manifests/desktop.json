@@ -2,10 +2,10 @@
   "app": "desktop",
   "version": "2.0.0",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-Setup.exe",
-  "size": 82035612,
-  "sha256": "92b89c726397efdeb89720aad44c7d98f2ac9147c94ce70829a7f01c5be3e7a8",
-  "notes": "feat(ui): home em painel 'Agora' (bento), pílulas flutuantes no hero e movimento de entrada",
+  "size": 82035767,
+  "sha256": "c4ad4738ce5921b68cad876129ad4e347e75d19ffd1b11e81458a75192ea9433",
+  "notes": "feat(ui): marca maior no trilho, detalhe cinematografico com brilho e entradas animadas",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-21T04:07:18Z"
+  "publishedAt": "2026-11-21T04:15:25Z"
 }
