@@ -4,12 +4,12 @@
   "version": "2.0.0",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.AppImage",
   "debUrl": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.deb",
-  "debSize": 75485570,
-  "debSha256": "7ca8c2da7ff20c86f763bc93a471e3ff1e007591dda9e0cdb8edb6051b489dd8",
-  "size": 109052532,
-  "sha256": "9f01ac21926777e4348afee1babf677e6215ea7959cbebcd48114f48f7d07806",
-  "notes": "feat(ui)!: novo mundo visual 'suco à noite' — cereja viva, Fraunces, trilho flutuante (2.0.0)",
+  "debSize": 75562488,
+  "debSha256": "d3860314e6a7f63f912a00cc4cb4fb65edd7ebe34a7052b6b67502adad128681",
+  "size": 109056849,
+  "sha256": "f00f2a315ba010922049d09d6b9473bf0303f126e6325bc87c80844059711ca9",
+  "notes": "feat(icon): novo ícone do app e branding do instalador no mundo 'suco à noite'",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-21T03:39:43Z"
+  "publishedAt": "2026-11-21T03:51:12Z"
 }
