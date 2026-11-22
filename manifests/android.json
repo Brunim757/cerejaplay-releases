@@ -4,9 +4,9 @@
   "versionCode": 20,
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/android-latest/cerejaplay-android.apk",
   "size": 62997427,
-  "sha256": "8c4c3cc82b5a8f29656fd3a9c31517443f5518f176d55b8704950d3df8ad2531",
+  "sha256": "97e194d9cbf487bfa4cb296853e4ec40bd279358d028e03a6d00875d842dc4c8",
   "notes": "feat(ui): onboarding em palco — medalhao em degrade, titulos Fraunces e CTA com mola",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-21T04:16:03Z"
+  "publishedAt": "2026-11-22T00:28:15Z"
 }
