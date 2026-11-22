@@ -1,15 +1,15 @@
 {
   "app": "linux",
   "platform": "linux",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.AppImage",
   "debUrl": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.deb",
-  "debSize": 75489496,
-  "debSha256": "c530db07452c059e807d0aa1106d2d45cf4da7abf2e52220b336fb166d20de11",
-  "size": 109056870,
-  "sha256": "591803a00447692ed25291675f667509a7d90a193b47cf82469e79ba4ccef45c",
-  "notes": "fix(desktop): relanca sem aceleracao de GPU quando o Chromium trava nativamente no Linux (2.0.1)",
+  "debSize": 75564654,
+  "debSha256": "01742c425c9b807e8733c5a3d0ffb3eb882b01a58eed8b09de22fc5920f0d518",
+  "size": 109175857,
+  "sha256": "9cf6c6d902605246ad60f114a1ceacff6b2c4643bb26ddb8ad247cd9cbffa0b3",
+  "notes": "fix(linux): conjunto de icones, categoria, AppStream e sem aceleracao de GPU",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-22T17:34:34Z"
+  "publishedAt": "2026-11-22T18:40:07Z"
 }
