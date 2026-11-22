@@ -4,12 +4,12 @@
   "version": "2.0.2",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.AppImage",
   "debUrl": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.deb",
-  "debSize": 75564654,
-  "debSha256": "01742c425c9b807e8733c5a3d0ffb3eb882b01a58eed8b09de22fc5920f0d518",
-  "size": 109175857,
-  "sha256": "9cf6c6d902605246ad60f114a1ceacff6b2c4643bb26ddb8ad247cd9cbffa0b3",
-  "notes": "fix(linux): conjunto de icones, categoria, AppStream e sem aceleracao de GPU",
+  "debSize": 75560164,
+  "debSha256": "2a194858fe243302f0f2e65a2542b02d580bb250075b5084937f955020546951",
+  "size": 109175830,
+  "sha256": "307c42113fe45760997efa2e56385e61a6f1c806a91130d62d0d9201c7a7d290",
+  "notes": "feat(linux): nao checar atualizacao interna quando roda em Flatpak",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-22T18:40:07Z"
+  "publishedAt": "2026-11-22T18:49:55Z"
 }
