@@ -1,11 +1,11 @@
 {
   "app": "desktop",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-Setup.exe",
-  "size": 82035795,
-  "sha256": "b3bde739bbb634b4729225bd4f308954f15e5a4a7c051e5a94bb5282d770f208",
-  "notes": "fix(desktop): relanca sem aceleracao de GPU quando o Chromium trava nativamente no Linux (2.0.1)",
+  "size": 82036146,
+  "sha256": "e69ea2d7d73e7b5e582279ab806926109c18315fb40b2a30d1e0da7cbe84699a",
+  "notes": "fix(linux): conjunto de icones, categoria, AppStream e sem aceleracao de GPU",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-22T17:34:07Z"
+  "publishedAt": "2026-11-22T18:38:30Z"
 }
