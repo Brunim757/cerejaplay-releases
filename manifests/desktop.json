@@ -2,10 +2,10 @@
   "app": "desktop",
   "version": "2.0.2",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/desktop-latest/CerejaPlay-Setup.exe",
-  "size": 82036146,
-  "sha256": "e69ea2d7d73e7b5e582279ab806926109c18315fb40b2a30d1e0da7cbe84699a",
-  "notes": "fix(linux): conjunto de icones, categoria, AppStream e sem aceleracao de GPU",
+  "size": 82036102,
+  "sha256": "9cdc39011b3cb4dc6ebac16208dc186d1a844c9c3601533777bc563f1531fe4d",
+  "notes": "feat(linux): nao checar atualizacao interna quando roda em Flatpak",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-22T18:38:30Z"
+  "publishedAt": "2026-11-22T18:48:57Z"
 }
