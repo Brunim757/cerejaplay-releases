@@ -4,12 +4,12 @@
   "version": "2.0.0",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.AppImage",
   "debUrl": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.deb",
-  "debSize": 75496658,
-  "debSha256": "f188945ab5c7a62b70ff5154239e52ef926a72987c2ade36ead7a78fc33e3dd4",
-  "size": 109056911,
-  "sha256": "3e4e00b347aa026487bdd892e2afefff4c30421674f87fa9dd082343e96b0ba0",
+  "debSize": 75912830,
+  "debSha256": "917d209813cf44716482c2c4d982d96df2625d9c3efb18abadc6cdd3e4467203",
+  "size": 109056906,
+  "sha256": "d297f0b8d9de5b8435e5b1775303703059110421a5c00bca6e22591abde3a094",
   "notes": "feat(ui): marca maior no trilho, detalhe cinematografico com brilho e entradas animadas",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-21T04:15:53Z"
+  "publishedAt": "2026-11-22T00:29:57Z"
 }
