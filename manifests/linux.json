@@ -1,15 +1,15 @@
 {
   "app": "linux",
   "platform": "linux",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "url": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.AppImage",
   "debUrl": "https://github.com/Brunim757/cerejaplay-releases/releases/download/linux-latest/CerejaPlay-linux.deb",
-  "debSize": 75564164,
-  "debSha256": "55f4f4b6e89915b22c7b1c9c388308a4da35f67f81573f2dbbe0c1cf46536465",
-  "size": 109175815,
-  "sha256": "09f3ecac32c29caa4487f913c0035310f5779a81e7df24cdc8faf5d8178b9bee",
-  "notes": "chore(release): 2.0.3",
+  "debSize": 75553610,
+  "debSha256": "e42d6d318c9636046cac115d17f3a24763aa0375108fbeaa9d0dd6eb888f504b",
+  "size": 109175854,
+  "sha256": "d0ecc3165ed435259def833533aa43e363c4dcc6b195f1f9cf9befe61edd3701",
+  "notes": "feat(snap): empacota o app para a Snap Store",
   "forceUpdate": false,
   "minSupported": "1.0.0",
-  "publishedAt": "2026-11-22T18:58:43Z"
+  "publishedAt": "2026-11-22T19:43:29Z"
 }
